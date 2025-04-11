@@ -9,7 +9,7 @@ namespace Ukol9_class
     public class Kalkulacka
     {
         private double Vysledek;
-        private int VysledekInt;
+        //private int VysledekInt;
 
         public Kalkulacka()
         {
